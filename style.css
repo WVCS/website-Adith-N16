@@ -1,3 +1,22 @@
 body {
+nav {
+  list-style-type: none;
+  width: 100%;
+  background-color: #949396;;
+  position: fixed;
+  top: 10;
+  left: 10;
+}
 
+li a {
+  color: white;
+  text-decoration: none;
+  display: block;
+  padding: 15px 50px;
+  float: left;
+}
+
+li a:hover {
+  background-color: #DEA47E;
+}
 }
