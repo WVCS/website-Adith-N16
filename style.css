@@ -1,4 +1,4 @@
-body {
+
 nav {
   list-style-type: none;
   width: 100%;
@@ -19,4 +19,4 @@ li a {
 li a:hover {
   background-color: #DEA47E;
 }
-}
+
