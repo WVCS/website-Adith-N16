@@ -18,3 +18,9 @@ li a {
 li a:hover {
   background-color: #DEA47E;
 }
+img:hover {
+  border: 5px solid #ddd;
+  border-radius: 40px;
+  padding: 15px;
+  width: 400px;
+ }
